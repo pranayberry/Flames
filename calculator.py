@@ -10,7 +10,7 @@ result = {
 def inp():
 	while True:
 		name1 = raw_input("Enter Your Name\n>")
-		name2 = raw_input("Enter Your Crush\'s\n>")
+		name2 = raw_input("Enter Your Crush's\n>")
 		name1 = name1.lower()			
 		name2 = name2.lower()
 		name1 = name1.replace(" ","")
