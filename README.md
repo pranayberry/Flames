@@ -1,2 +1,2 @@
 # Flames
-Run calculator.py and follow onscreen instructions.
+Run flames.py and follow onscreen instructions.
